@@ -142,3 +142,4 @@ cython_debug/
 *.csv
 ICS-to-Excel-CSV/
 .DS_Store
+*.zip
